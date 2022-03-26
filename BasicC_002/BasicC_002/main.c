@@ -1,11 +1,13 @@
 //
 //  main.c
-//  POO_revisao
+//  BasicC_002
 //
 //  Created by Luiz Araujo on 25/03/22.
 //
+
 /*:
- # Elabore um programa que receba um número inteiro e imprima de 1 até o número informado.
+ ## Exercício 002
+ Elabore um programa que receba um número inteiro e imprima de 1 até o número informado.
     - Nos múltiplos de  5 substitua por somente `M05`
     - Nos múltiplos de 10 substitua por somente `M10`
     - Nos múltiplos de 15 substitua por somente `M15`
